@@ -1,0 +1,5 @@
+1) The video showcases a blackjack game in progress at a casino, where the dealer is dealing cards to players.
+2) The dealer's initial action of shuffling the deck and then dealing two cards each to multiple players, including an Ace of Spades and a King of Diamonds, causes the game to begin.
+3) The dealing of cards by the dealer, who is wearing a blue shirt, leads to the players placing their bets by moving chips around the betting area.
+4) As the dealer continues to deal more cards, such as a Queen of Hearts and a 9 of Clubs, and manages the chips on the table, it causes the players to respond based on their hand values and the rules marked on the table like 'Dealer must draw to 16, and stand on all 17's'.
+5) The progression of the game, involving the dealer's actions and the players' responses, eventually results in the dealer collecting chips from the table, indicating the end of a round or a win for the players.

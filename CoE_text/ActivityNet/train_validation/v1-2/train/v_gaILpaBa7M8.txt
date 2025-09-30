@@ -1,0 +1,4 @@
+1) The video showcases a robotic arm playing table tennis in a garage-like setting, which causes the environment to be detailed with wooden walls, tools hanging on the wall, and a garage door in the background.
+2) The robot, equipped with a ping pong paddle, is positioned on one side of the table, while a human player is on the opposite side, which leads to the setup of a competitive game scenario.
+3) The human player serves the ball to the robot, causing the robot to return it.
+4) The robot executes a series of precise and calculated strokes, hitting the ball back and forth across the net, which results in the continuation of the game as the human player keeps hitting the ball back and forth with the robot.

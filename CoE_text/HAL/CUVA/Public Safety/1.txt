@@ -1,0 +1,10 @@
+1) The traffic light turns green at an intersection where a black SUV is stopped in front of a gray car.  
+2) As the light changes, the black SUV begins moving forward.  
+3) Simultaneously, the driver's side door of the gray car opens, caused by the person inside noticing an issue.  
+4) A person wearing an orange shirt and black pants exits the vehicle, appearing to be in distress or discomfort.  
+5) They hold their stomach, indicating possible physical discomfort, which leads to them walking away from the car.  
+6) The person returns to the gray car, opens the driver's side door again, and starts searching for something inside.  
+7) After searching momentarily, they close the door, which results in them deciding to investigate further by walking to the front of the car.  
+8) They open the hood of the gray car, presumably to check for mechanical issues or other problems.  
+9) After closing the hood, the person walks away once more, leaving the gray car still parked at the intersection.  
+10) The video ends with the gray car remaining stationary while the person in the orange shirt is no longer visible.

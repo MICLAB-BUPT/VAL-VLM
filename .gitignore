@@ -1,0 +1,68 @@
+# =========================================
+# Python & Virtual Environments
+# =========================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+venv/
+env/
+.env
+.venv
+virtualenv/
+ENV/
+
+# =========================================
+# IDE & Editor specific files
+# =========================================
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# =========================================
+# Build and distribution artifacts
+# =========================================
+build/
+dist/
+*.egg-info/
+*.so
+*.pyd
+
+# =========================================
+# Data, Models, Logs & Notebooks
+# =========================================
+
+#data/
+datasets/
+dataset/
+
+
+#models/
+checkpoints/
+*.pth
+*.pt
+*.bin
+*.pb
+*.onnx
+
+
+logs/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# =========================================
+# Other
+# =========================================
+
+config.ini
+secrets.yaml
+*.env

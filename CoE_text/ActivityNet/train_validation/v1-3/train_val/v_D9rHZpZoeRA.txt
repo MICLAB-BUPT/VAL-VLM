@@ -1,0 +1,7 @@
+1) The video begins with a title screen displaying 'Changing a Wheel' and the Audi logo, followed by a black screen, causing it to set the context for the tutorial.
+2) It then transitions to showcasing a white Audi A3 in a showroom setting, emphasizing its front and side views, which leads to focusing on the car's wheel, highlighting the tire and rim, and providing an inside view of the dashboard, thereby familiarizing the viewer with the vehicle.
+3) The scene changes to a white Audi A4 in a garage, emphasizing its front and side views, which causes the start of the demonstration on how to change a wheel.
+4) A person opens the trunk, removing the spare tire and tools like a lug wrench and jack, which enables them to begin the process of changing the wheel.
+5) They use the lug wrench to loosen the lug nuts on the flat tire, leading to lifting the car with a jack, which allows the removal of the flat tire.
+6) After removing the flat tire, they replace it with the spare, tightening the lug nuts using the lug wrench, ensuring the spare tire is securely attached.
+7) The process concludes with the car back in the showroom, now with the spare tire installed, and the display of the Audi logo again, signifying the completion of the wheel-changing procedure.

@@ -1,0 +1,7 @@
+The logic chain of the anomaly event can be constructed as follows:
+
+1) A person approaches the black car, gets inside, and prepares to drive normally.
+
+2) The car starts moving forward on its own without any visible human interaction (anomaly).
+
+3) This results in a smooth, continuous movement without signs of manual pushing or pulling.

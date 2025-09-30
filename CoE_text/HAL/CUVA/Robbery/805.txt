@@ -1,0 +1,7 @@
+1) A man in dark clothing enters the restaurant with a gun.  
+2) This action causes him to approach the counter and point the gun at the person behind it.  
+3) Pointing the gun leads to him demanding money from the person on the floor.  
+4) The demands result in customers complying and handing over their money.  
+5) The man then takes money from the cash register, which leads to his exit from the scene.  
+
+This chain of events completes the anomaly event depicted in the video.

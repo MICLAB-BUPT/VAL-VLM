@@ -1,0 +1,4 @@
+1) Two individuals, one wearing a black hoodie and the other wearing a blue hoodie, enter a kitchen setting.  
+2) The person in the black hoodie opens the refrigerator door while the person in the blue hoodie stands nearby.  
+3) The individual in the black hoodie holds a knife and appears to attempt to open a cabinet or drawer.  
+4) This activity leads to the detection of an anomaly in the kitchen environment, which results in further investigation or alarm being raised.

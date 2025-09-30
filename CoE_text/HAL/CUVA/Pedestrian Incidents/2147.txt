@@ -1,0 +1,5 @@
+1) A vehicle equipped with a dashboard camera is driving through an urban area, capturing the surroundings on video.  
+2) As the car approaches an intersection, a pedestrian wearing a red jacket begins to cross the road in front of it.  
+3) The presence of the pedestrian crossing causes the car to slow down.  
+4) The vehicle reduces its speed near the pedestrian to ensure safety.  
+5) The surrounding environment includes traffic lights and other vehicles, which support the safe interaction between the car and the pedestrian.

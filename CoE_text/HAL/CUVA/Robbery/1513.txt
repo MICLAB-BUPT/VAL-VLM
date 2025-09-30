@@ -1,0 +1,4 @@
+1) The man enters the store, causing him to approach the counter where the woman is standing.  
+2) This leads to him interacting with the cashier, during which he takes out his wallet.  
+3) Handing over money results in the cashier processing the transaction.  
+4) After receiving the receipt or change, he exits the store.

@@ -1,0 +1,3 @@
+1) The human in the video makes various hand gestures to play a game of rock-paper-scissors, which causes the robotic arm to recognize and mirror these movements.
+2) The robot, equipped with sensors and mechanical arms, is positioned on a metallic platform, and its ability to recognize and respond to the human player's hand signals allows for an interactive gameplay experience.
+3) The synchronization of the robot's movements with the human player's gestures is facilitated by the robot's recognition system, which leads to the display of graphical overlays showing the timing of its responses and highlighting its technical capabilities.

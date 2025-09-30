@@ -1,0 +1,7 @@
+1) A police officer stands next to a stopped car (police vehicle) on the highway, inspecting it.
+2) Another car (black) crashes into the back of this police car, causing significant damage and smoke. This is the anomaly event.
+3) The crash leads to the officer moving away quickly for safety as the collision occurs.
+4) The crash results in significant damage and disruption of the scene.
+5) This incident causes a 911 call to be made, where the driver explains what happened during the accident.
+6) After handling the immediate danger, the officer attends to the aftermath, checking for injuries and ensuring everyone's safety.
+7) The situation leads to another police officer arriving at the scene to assist with managing the crash's consequences.

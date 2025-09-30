@@ -1,0 +1,6 @@
+1) A news anchor in a studio setting begins discussing global affairs.  
+2) The discussion leads to a split-screen view with another person, Emily, who is speaking about travel advisories for the UK.  
+3) The conversation causes the display of text "Global Affairs issues travel advisory for U.K." at the bottom of the screen.  
+4) This results in footage of protests and unrest in the UK being shown to illustrate the current events.  
+5) The video transitions back to the split-screen format, with the anchor and Emily continuing their discussion on the topic.  
+6) The overall tone of the video is established as a news report or commentary on global affairs and travel advisories.

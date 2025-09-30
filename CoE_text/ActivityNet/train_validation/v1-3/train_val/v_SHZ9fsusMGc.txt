@@ -1,0 +1,6 @@
+1) The video shows a person solving a Rubik's Cube on a blue table.
+2) The person starts with the cube in a scrambled state, causing them to begin twisting and turning it in an attempt to solve it.
+3) They use both hands to manipulate the cube, rotating its sections quickly, which leads to progress in completing each face of the cube.
+4) A timer is visible on the table, indicating that the person is timing their attempts, thus creating a sense of urgency or competition.
+5) After solving the cube, they place it on the table next to a digital timer, which displays '0.56' seconds.
+6) The person then presses the timer button to stop the timer, thereby recording the time taken to solve the cube.

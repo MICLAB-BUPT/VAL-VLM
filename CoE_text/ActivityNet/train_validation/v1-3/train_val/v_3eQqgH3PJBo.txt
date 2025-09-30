@@ -1,0 +1,3 @@
+1) The video shows a man in a black shirt and white gloves arranging billiard balls on a blue pool table, ensuring they are evenly spaced for a game of pool. This action is the initial setup necessary to start the game, which causes the transition from preparation to play.
+2) After setting up the balls, he takes a shot with a cue stick, aiming for a specific ball. This action initiates the gameplay, leading to the next player's turn.
+3) The camera then shifts to show another man in a light blue shirt preparing for his turn. He takes a shot, causing the balls to scatter across the table. This sequence illustrates the back-and-forth nature of the game, with each player's actions influencing the state of the game.

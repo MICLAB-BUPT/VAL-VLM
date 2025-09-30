@@ -1,0 +1,4 @@
+1) A person wearing a red hat and dark clothing cleans the exterior of a building with graffiti at night using a long-handled brush and a ladder.  
+2) The cleaning activity leads to the person needing to pick up an orange bucket from the ground.  
+3) Picking up the bucket causes the person to walk towards the camera.  
+4) This action results in the person walking away, which is identified as an anomaly event.

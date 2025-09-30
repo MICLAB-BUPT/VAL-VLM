@@ -1,0 +1,7 @@
+1) The man riding a horse in an indoor arena causes him to chase and rope a calf.
+2) Chasing the calf leads to the man throwing a lasso around the calf's neck.
+3) Successfully lassoing the calf causes the man to dismount his horse.
+4) Dismounting his horse enables the man to tie up the calf's legs.
+5) After securing the calf, the action of walking back towards his horse is caused by the completion of tying the calf.
+6) Walking back to his horse results in the man mounting it again.
+7) Mounting his horse again allows the man to ride away with the tied calf.

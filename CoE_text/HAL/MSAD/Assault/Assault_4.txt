@@ -1,0 +1,6 @@
+1) The person flees from something, causing them to be in a hurry.  
+2) Their haste leads to them running quickly as they exit the building by descending the stairs.  
+3) Running too fast results in losing balance.  
+4) Losing balance causes the person to stumble and fall at the bottom of the stairs.  
+5) The fall leads to the person getting up.  
+6) Getting up results in the person continuing to run away from the camera.

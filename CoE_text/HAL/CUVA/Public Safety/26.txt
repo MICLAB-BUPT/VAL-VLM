@@ -1,0 +1,5 @@
+1) The video begins with a news anchor introducing the event, displaying surveillance footage of a man near trash bags on the sidewalk (cause).  
+2) This leads to the man approaching the pile of trash bags (leads to).  
+3) He rummages through them, causing him to pick up one bag (results in).  
+4) The man then walks away with the bag and subsequently throws it into the street (causes an unusual action).  
+5) This behavior is identified as an anomaly because it is uncommon for individuals to discard trash in public spaces (results in recognizing the anomaly).

@@ -1,0 +1,4 @@
+1) The video shows a close-up of a person's hand playing the violin.
+2) The left side of the screen displays a graphical representation of the violin strings with numbers indicating finger positions, while the right side shows the actual hand movements on the violin.
+3) The hand moves up and down the neck of the violin, pressing on the strings to produce different notes, which causes the numbers on the graphical representation to change sequentially from 0 to 3, suggesting different notes being played.
+4) The fingers are shown pressing down on the strings at various positions, corresponding to the numbers displayed on the left side of the screen.

@@ -1,0 +1,4 @@
+1) A busy street intersection with cars and pedestrians is shown, where people like a man in black jacket and red pants and a woman in white coat are crossing or waiting.  
+2) A black car arrives at the intersection, causing a man in a gray jacket to get out of the driver's seat.  
+3) The black car stops in the middle of the road, leading to it blocking the pedestrian crossing.  
+4) This unusual stopping results in an anomaly event where cars obstruct the pedestrian path.

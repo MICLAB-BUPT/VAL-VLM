@@ -1,0 +1,5 @@
+1) The video clip shows a green bowling ball, with three finger holes, rolling down a lane towards the pins.
+2) The pins are arranged in a traditional triangular formation at the end of the lane, awaiting the ball's approach.
+3) As the ball approaches and makes contact with the pins, it causes them to scatter in various directions.
+4) This collision results in some pins falling completely, while others remain standing but are left tilted or leaning.
+5) The ball continues to roll after hitting the pins, eventually coming to a stop near the fallen and scattered pins.

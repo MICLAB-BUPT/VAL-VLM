@@ -1,0 +1,6 @@
+1) A group of people attempts to control a lion, which is initially held by one person.  
+2) The lion's restraint **causes** it to attack another person suddenly.  
+3) This attack **leads to** the other individuals trying to assist in subduing the lion.  
+4) Their efforts to help **result in** the lion overpowering them due to its strength.  
+5) The lion overpowering everyone **causes** all of them to be thrown to the ground.  
+6) Finally, after overpowering the group, the lion escapes and runs off.

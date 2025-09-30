@@ -1,0 +1,6 @@
+The event begins with a video displaying diverse animal interactions. This setting leads to various specific moments, such as a woman taking a selfie with a camel between 10.2-13.4 seconds, which contributes to detecting an anomaly due to capturing this unique interaction.
+
+1) The video showcases multiple interactions between people and animals in different settings.
+2) This variety of interactions leads to the occurrence of specific notable moments within the footage.
+3) One such moment is a woman taking a selfie with a camel during the timeframe of 10.2-13.4 seconds.
+4) This unique interaction results in the detection of an anomaly within the broader context of the video.

@@ -1,0 +1,23 @@
+1) An empty office space with cubicles is initially observed on a black and white security camera.
+
+2) A person wearing a reflective vest enters from the left side, causing movement in the previously static environment.
+
+3) This leads to the individual walking towards the center of the room.
+
+4) Upon reaching the center, the person exits to the right side, continuing the pattern.
+
+5) The office returns to being empty after the first person exits, only to have another person in a reflective vest enter from the right side.
+
+6) This causes further movement as the second individual walks towards the center.
+
+7) The second person then exits to the left side, mirroring the path of the first but in the opposite direction.
+
+8) This pattern of entry and exit repeats with different individuals, resulting in repeated movements within the office.
+
+9) However, during one such instance, a person wearing both a reflective vest and a cap enters from the left side, causing a noticeable deviation from the usual behavior.
+
+10) This individual walks to the center, pauses briefly, leading to a momentary stillness that stands out.
+
+11) The pause causes a slight disruption in the otherwise consistent flow of people moving through the space.
+
+12) After the brief pause, the person exits to the right side, marking the end of this particular movement but highlighting an anomaly in their behavior.

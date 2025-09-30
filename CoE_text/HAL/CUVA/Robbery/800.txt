@@ -1,0 +1,10 @@
+1) A nighttime city street scene is set with storefronts, artificial lighting, shadows, muted colors, and wet surfaces from recent rain.  
+2) A person rides a scooter on this wet surface.  
+3) The wet surface causes the scooter to lose traction.  
+4) This leads to the rider losing control of the scooter.  
+5) Losing control results in the rider falling off the scooter.  
+6) After the fall, the rider chases after the moving scooter.  
+7) The pursuit leads to the rider catching up with the scooter.  
+8) Catching up allows the rider to grab onto the back and continue riding briefly.  
+9) However, the wet surface again causes the rider to lose control.  
+10) This second loss of control results in another fall from the scooter.

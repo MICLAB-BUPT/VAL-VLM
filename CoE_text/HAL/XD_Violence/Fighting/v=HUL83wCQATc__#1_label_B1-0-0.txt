@@ -1,0 +1,6 @@
+Here is the integrated logic chain of the anomaly event:
+
+1) A physical altercation between white team player #5 and red team player #13 causes player #5 to fall to the ice injured.  
+2) The injury leads to referees intervening to separate the players and rushing to help him up.  
+3) Player #5 being injured results in him being escorted off the ice by a teammate and medical staff.  
+4) The situation causes coaches and players on the sidelines to discuss the incident.

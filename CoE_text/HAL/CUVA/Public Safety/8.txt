@@ -1,0 +1,5 @@
+1) The car starts moving forward after the red light turns green at the intersection.  
+2) This leads to the car making a left turn onto a residential street.  
+3) As the car drives straight on the road, it results in an interaction between a person outside and someone inside the car.  
+4) This interaction causes the car to collide with another vehicle near a pedestrian crossing.  
+5) The collision results in visible damage to the front end of the car.

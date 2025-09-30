@@ -1,0 +1,7 @@
+1) A lion appears and approaches a car driven through a dry, grassy landscape.  
+2) The lion's approach **causes** the driver to react by pressing down on the hood.  
+3) The lion continues to interact with the car, moving around it and occasionally jumping back onto the hood.  
+4) The lion's persistent interaction **leads to** it biting the car and the driver.  
+5) This action **results in** visible damage to the vehicle and creates a desperate situation for the driver.  
+6) The driver's quick and desperate actions **cause** him to fend off the lion.  
+7) Eventually, the lion moves away from the car and walks off into the distance.

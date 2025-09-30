@@ -1,0 +1,6 @@
+1) The video begins with a title screen displaying 'Arc Length' in yellow text on a blue background, which then transitions to an animated diagram showing a welding process.
+2) This animation causes the viewer to see a welding rod melting metal, with arrows indicating the arc length and the direction of the welding, leading to a real-life scene of a welding torch emitting bright light as it melts metal.
+3) Following this, a graph appears, illustrating the relationship between voltage and amperage, with a green line for long arcs and a red line for short arcs, which is intended to explain the concept of arc length further.
+4) The appearance of the graph causes the video to continue with more real-life welding scenes, showcasing the intense heat and sparks produced during the process, emphasizing the practical application of the previously explained theory.
+5) These scenes lead to the final frames depicting a person wearing protective gear, including a helmet and gloves, performing a welding task on a metal surface, which emphasizes safety measures in the welding environment.
+6) The depiction of the person in protective gear holding a welding torch and carefully applying it to a metal surface, creating bright sparks and intense light, serves to visually reinforce the importance of safety and the practical skills involved in the welding process.

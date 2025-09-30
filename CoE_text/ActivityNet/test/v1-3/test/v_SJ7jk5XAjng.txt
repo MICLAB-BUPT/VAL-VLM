@@ -1,0 +1,8 @@
+1) The video starts with a title screen displaying 'PSYCHO WOLF20' in bold letters against a dark background, with a floating white cube above the text.
+2) The scene transitions to a menu screen titled 'Arm Wrestling,' showing options like 'Match,' 'Practice,' and 'Settings,' and lists players 'Wolf' and 'Jungle,' with 'Wolf' having 2 points and 'Jungle' having 1 point.
+3) The scene then shifts to an outdoor setting at night where two characters, one wearing a white jacket and the other in a dark hoodie and cap, are engaged in arm wrestling on a wooden table, surrounded by industrial buildings, trees, and a yellow neon sign reading 'Motel.'
+4) The characters start by standing opposite each other at the wooden table, preparing for the match, which causes the competition to begin.
+5) The character in the dark hoodie wins the first round, as indicated by the text 'Winner' appearing on the screen, causing the score to update.
+6) After several rounds of arm wrestling, the character in the dark hoodie wins overall, leading to the final display of the text 'Winner' on the screen.
+7) Following the victory, the character in the hoodie walks away from the table, while the other character remains seated.
+8) The video concludes with a black screen displaying 'Psychowolf20' and 'WOLF PACK20' along with a score tally, followed by a call-to-action screen encouraging viewers to subscribe, comment, and like.

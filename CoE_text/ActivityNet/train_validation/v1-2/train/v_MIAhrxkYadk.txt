@@ -1,0 +1,7 @@
+1) The woman is seen walking down the street with a black bag, which causes her to enter the salon.
+2) Entering the salon leads to her sitting in a chair, which then causes a stylist to talk to her.
+3) The stylist talking to her causes an examination of her hair and a discussion about her desired hairstyle.
+4) After deciding on a specific style, this decision causes the stylist to begin cutting her hair using scissors and a comb.
+5) Once the haircut is complete, it causes the stylist to style her hair with a blow dryer and a round brush.
+6) Styling her hair with a blow dryer and a round brush causes the stylist to show her the new hairstyle in the mirror.
+7) Seeing the new hairstyle in the mirror causes both the woman and the stylist to appear satisfied with the result.

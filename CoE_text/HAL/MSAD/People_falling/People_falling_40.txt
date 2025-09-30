@@ -1,0 +1,5 @@
+1) A person attempts to pick up a package from the doorstep.  
+2) This action leads to losing balance.  
+3) Losing balance causes the person to fall down the stairs.  
+4) The fall results in landing on the grass at the bottom and dropping the package.  
+5) The person gets back up, retrieves the package, and then walks away.

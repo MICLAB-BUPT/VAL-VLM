@@ -1,0 +1,7 @@
+1) A woman in a red shirt and black shorts is preparing to lift a barbell with weights on each side, which causes her to approach the barbell.
+2) She bends down and grips it with both hands, causing her to lift the barbell off the ground.
+3) Lifting the barbell off the ground then leads to her raising it to her shoulders.
+4) With the barbell at shoulder height, she squats down while holding it, which after standing up from the squat, causes her to lift the barbell over her head.
+5) She holds the barbell above her head for a moment, leading to her lowering it back to the ground.
+6) Lowering the barbell back to the ground then results in her stepping back from the barbell.
+7) Finally, stepping back from the barbell causes her to celebrate her successful lift, thus completing her lifting sequence.

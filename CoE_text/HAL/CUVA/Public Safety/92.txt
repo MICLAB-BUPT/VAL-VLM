@@ -1,0 +1,7 @@
+1) The man in a red cap and black vest enters the building with a rifle.
+2) He moves through hallways and rooms, leading to an encounter with a group of people.  
+3) This interaction causes a disturbance inside the building.  
+4) The disturbance results in shattered glass as the man exits through a door labeled 'EXIT'.  
+5) The man flees outside, prompting another person to follow him.  
+6) The incident leads to police intervention, resulting in officers escorting people out of the building safely.  
+7) The event concludes with a graphic overlay providing information about the incident.

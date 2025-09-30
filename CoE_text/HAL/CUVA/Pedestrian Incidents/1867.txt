@@ -1,0 +1,15 @@
+1) The traffic lights at an urban intersection are functioning normally with alternating signals for vehicles and pedestrians.
+
+2) Due to an anomaly, the pedestrian signal turns green simultaneously in both directions, causing confusion among pedestrians and drivers.
+
+3) This confusion leads to uncertainty about when it's safe to cross or proceed, resulting in hesitation and cautious behavior from all parties involved.
+
+4) As a result of this confusion, a man waiting to cross begins to do so when the light changes but is suddenly confronted by an approaching bus from the left, which he didn't anticipate due to conflicting signals.
+
+5) The unexpected appearance of the bus causes the man to stop mid-crossing and hesitate momentarily.
+
+6) After hesitating, the man resumes crossing cautiously, attempting to navigate through the confusing traffic situation.
+
+7) Throughout this anomaly, other pedestrians and cyclists are also navigating the intersection with increased caution, trying to avoid potential accidents due to conflicting signals.
+
+8) The overall event highlights a critical anomaly in the traffic light system, which could lead to more dangerous situations if not addressed.

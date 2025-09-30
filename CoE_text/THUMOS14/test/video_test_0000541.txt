@@ -1,0 +1,3 @@
+1) A player from the blue team dribbling the ball towards the goal causes the goalkeeper in a yellow jersey to attempt to block the shot.  
+2) The goalkeeper's action leads to a player in a blue uniform running across the field, while a player in a maroon uniform follows, creating a sequence of movements.  
+3) The combined efforts of the players result in the blue team celebrating together, indicating a successful play or goal.

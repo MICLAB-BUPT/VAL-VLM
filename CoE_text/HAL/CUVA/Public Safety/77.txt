@@ -1,0 +1,5 @@
+1) The video depicts a soldier lying on the ground, seemingly injured or incapacitated, wearing camouflage clothing with a rifle beside him in a dirt field with some vegetation.  
+2) The soldier's minimal movements suggest he may be injured or exhausted under natural lighting in an outdoor setting.  
+3) This situation causes the appearance of a red circle around the soldier's head, indicating that he has been hit.  
+4) The red circle leads to the text 'Антон д-1' (Anton D-1) appearing on the screen.  
+5) The text results in identifying the soldier or providing his identification code.

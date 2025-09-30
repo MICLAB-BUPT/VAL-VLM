@@ -1,0 +1,9 @@
+1) The video begins with a black screen displaying the text "Thanks for using the trial version of Movie Maker 6. Register your product to remove this opening message."
+2) This opening message causes the transition to a scene showing two fencers in white uniforms and masks, preparing for a match on a blue mat.
+3) The initial scoreboard shows 'ITA' leading 'ESP' with a score of 10-9, setting the stage for the competition.
+4) The fencers engage in a series of attacks and defenses, which cause the scoreboard to update to show 'ITA' leading 'ESP' with a score of 11-9.
+5) As the fencers continue their duel, one makes a successful attack, causing the scoreboard to reflect 'ITA' leading 'ESP' with a score of 12-9.
+6) The ongoing exchange of blows, characterized by agility and precision, leads to another point for 'ITA', updating the scoreboard to 13-9.
+7) The continuous offensive and defensive maneuvers result in 'ITA' scoring yet another point, pushing the score to 14-9.
+8) Finally, after a series of intense exchanges, 'ITA' scores the final point, causing the scoreboard to display 'ITA' leading 'ESP' with a score of 15-9, concluding the match.
+9) The conclusion of the fencing match leads to the end of the video, which returns to a black screen with the text "Thanks for using the trial version of Movie Maker 6. Please visit our website for information on our products: www.imtoo.com".

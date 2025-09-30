@@ -1,0 +1,6 @@
+1) The video begins with two individuals inside a store: one seated at a desk (possibly a cashier) and another standing near the entrance.  
+2) The standing individual interacts briefly with the seated person before moving towards the entrance.  
+3) This interaction causes the standing individual to open the door and exit the store.  
+4) As the first individual exits, it leads to the glass door being opened again, allowing a new individual wearing a white hoodie and dark pants to enter the store.  
+5) The new individual approaches the counter, interacts with the seated person (cashier), which results in a brief exchange or transaction.  
+6) After the interaction at the counter, the individual in the white hoodie exits the store through the same glass door, following the direction of the first individual who left earlier.

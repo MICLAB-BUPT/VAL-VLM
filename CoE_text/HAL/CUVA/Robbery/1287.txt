@@ -1,0 +1,5 @@
+1) A man in black clothing falls to the ground inside an elevator, causing the event to begin.  
+2) The fall leads to a man in a blue shirt standing over him, showing concern or reaction.  
+3) The man in black gets up unharmed as a result of the interaction.  
+4) Getting up leads to the man in black continuing his journey by walking away from the elevator.  
+5) This action results in the scene shifting to a news anchor speaking in a studio setting.

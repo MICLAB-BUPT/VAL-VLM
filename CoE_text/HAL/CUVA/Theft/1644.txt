@@ -1,0 +1,6 @@
+1) A news anchor introduces a burglary story in a studio setting, which sets the context for the anomaly event.  
+2) The surveillance footage transitions to two individuals entering a house and taking items, labeled 'Video: Keaton Darby,' which leads to the identification of the burglary.  
+3) This causes the man in a blue shirt and red backpack to be seen running into the house with another person, suggesting they are committing the burglary.  
+4) The timestamp on the footage indicates it was recorded at 09:05:15 on 06/29/2015, which results in the documentation of the anomaly event.  
+5) The video then cuts to an interview with a woman in a yellow blouse, presumably the homeowner, who speaks about the incident, providing further details about the burglary.  
+6) Finally, the footage shows the individuals leaving the house and includes a screenshot of a Facebook post by the homeowner detailing the events.

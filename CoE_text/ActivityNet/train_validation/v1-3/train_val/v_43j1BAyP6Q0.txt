@@ -1,0 +1,6 @@
+1) The video showcases a user browsing through the Amazon website on a desktop interface, focusing on an elliptical trainer product page.
+2) The user interacts with various GUI elements, causing them to scroll through the page and click on different tabs like 'Customer Reviews' and 'More Buying Choices'.
+3) When the user clicks on the 'More Buying Choices' link, it causes a pop-up window to open, displaying additional buying options.
+4) After reviewing the additional buying options, the user closes this pop-up window, leading them to continue browsing the product page.
+5) Throughout the browsing session, the user hovers over the 'Add to Cart' button but does not click it, resulting in no items being added to the cart or purchased.
+6) While navigating, the user views the product's price, customer ratings, shipping options, images, and descriptions, but ultimately does not make any purchases.

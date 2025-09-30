@@ -1,0 +1,5 @@
+1) The video shows two boys playing a game of rock paper scissors.
+2) One boy is shirtless and the other is wearing a dark-colored shirt, which can be specified as a black jacket.
+3) They are standing in a room with a window in the background, both making hand gestures to play the game.
+4) The boy in the dark-colored shirt (black jacket) throws paper, while the shirtless boy throws scissors, causing the boy in the dark-colored shirt to win the round.
+5) The win causes the boy in the dark-colored shirt to celebrate by jumping up and down.

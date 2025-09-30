@@ -1,0 +1,6 @@
+1) The bowler delivers the ball, causing the batsman to attempt a shot.  
+2) The batsman's missed shot leads to the ball being caught by a fielder, resulting in an appeal for a wicket.  
+3) The umpire signals the decision, which leads to a replay of the delivery.  
+4) Subsequently, the bowler delivers another ball, causing the batsman to hit it and run between the wickets.  
+5) The fielding team's appeal for a run-out results in the umpire signaling the decision.  
+6) The batsmen being out leads to the fielding team celebrating their success.

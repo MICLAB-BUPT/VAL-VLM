@@ -1,0 +1,4 @@
+1) The players' objective to 'GET THE CONSTRUCTION CRANE' and 'REACH THE DESTINATION' causes them to run towards a building.  
+2) This movement leads to a transition to another location where a large crowd has gathered around a truck.  
+3) The transition results in the gathering of people, some wearing military uniforms, around the truck.  
+4) The intense combat and activities throughout the game result in the display of a scoreboard showing the final match results, including kills, deaths, and damage dealt by both teams.

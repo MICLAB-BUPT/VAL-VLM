@@ -1,0 +1,6 @@
+1) The video begins with a man driving a car, wearing an orange shirt and a camouflage hat.
+2) He stops the car, which causes him to get out of the vehicle.
+3) Getting out of the car leads to him starting a red lawnmower on a sidewalk.
+4) Starting the lawnmower causes him to proceed to mow a large lawn in front of a house, moving back and forth across the yard.
+5) After mowing, he returns to his car, which is caused by completing the mowing task.
+6) Returning to his car leads to him driving away.

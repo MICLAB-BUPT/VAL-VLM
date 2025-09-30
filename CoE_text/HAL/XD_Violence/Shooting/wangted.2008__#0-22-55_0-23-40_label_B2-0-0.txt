@@ -1,0 +1,7 @@
+1) A man in a blue jacket is held by two other men, one wearing a suit.  
+2) This situation causes the man in the blue jacket to become distressed.  
+3) His distress leads to him holding a gun.  
+4) The man in the blue jacket points the gun at a fly near a trash can, which is identified as an anomaly.  
+5) Pointing the gun results in him firing it at the trash can.  
+6) Firing the gun causes the trash can to explode.  
+7) The explosion leads to the man in the blue jacket sitting on the floor, looking defeated.

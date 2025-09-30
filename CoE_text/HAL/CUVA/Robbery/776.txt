@@ -1,0 +1,3 @@
+1) Multiple individuals attempt various methods of fare evasion by trying to bypass subway turnstiles without paying.  
+2) One person with long hair and a fur-lined coat successfully evades payment by walking through the turnstile.  
+3) This action results in an anomaly event being captured on video, highlighting fare evasion behavior.

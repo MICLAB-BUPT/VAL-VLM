@@ -1,0 +1,7 @@
+1) The video begins with a news anchor introducing a burglary incident captured on camera.  
+   - This leads to footage showing a man entering a living room and stealing a TV.  
+
+2) After the indoor scene, the video cuts to an outdoor setting where a man, identified as a reporter from KCAL 9, holds a microphone.  
+   - His live reporting causes the display of a 'LIVE' graphic overlay on the screen.  
+
+3) The combination of the live report and the burglary footage results in text overlays indicating 'BURGLARY CAUGHT ON CAMERA' along with specific names.

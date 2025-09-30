@@ -1,0 +1,4 @@
+1) At time 127.5-130.6 seconds, a man shoots at a truck.  
+2) This action causes soldiers to engage in hand-to-hand combat.  
+3) The combat leads to one soldier overpowering another with a rifle.  
+4) As a result, the environment becomes chaotic with overturned furniture and scattered objects.

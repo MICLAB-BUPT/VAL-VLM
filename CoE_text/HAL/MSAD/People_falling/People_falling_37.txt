@@ -1,0 +1,6 @@
+1) The woman is standing on a wet driveway near a white SUV, struggling with something on the ground.  
+2) She walks towards the car and enters it through the driver's side door.  
+3) After spending some time inside, she exits the vehicle.  
+4) Upon exiting, her movement leads to her losing balance on the wet surface.  
+5) Losing balance causes her to slip and fall near the car.  
+6) The fall results in her experiencing pain or injury, as she clutches her stomach while lying on the ground.

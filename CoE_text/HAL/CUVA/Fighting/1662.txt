@@ -1,0 +1,3 @@
+1) The anomaly event occurs between 75.8 and 87.4 seconds of the video.  
+2) During this timeframe, the credits of the video are displayed on the screen.  
+3) While the credits roll, the video simultaneously depicts a physical altercation between two individuals in an outdoor setting.

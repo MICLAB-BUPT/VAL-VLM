@@ -1,0 +1,3 @@
+1) The person starts by picking up the Rubik's Cube, which causes the timer on the laptop to begin counting up from 0 seconds.
+2) As the timer counts up, the person begins to manipulate the cube rapidly and with precision, causing the cube to change its configuration.
+3) The person's hands move quickly and deftly, solving the puzzle, which causes the timer to stop when the cube is solved, indicating the total time taken for the task.

@@ -1,0 +1,15 @@
+1) The video begins with a title screen displaying "ABC NEWS ON YOUR SIDE" in white text on a blue background, setting the context for the following scenes.
+
+2) This transitions to a nighttime scene in a parking lot where a person (Person A), wearing a black hoodie and dark pants, approaches a silver car parked near the curb. Person A bends down, possibly to pick something up or inspect the ground.
+
+3) Another individual (Person B), also dressed in dark clothing, approaches the car from the opposite direction, which causes Person A to stand up and start running away from the car.
+
+4) As Person A runs across the parking lot, passing by other parked cars and a food truck, this action leads to the camera following their movement, capturing their escape.
+
+5) Meanwhile, Person B remains near the vehicle, occasionally looking around, indicating potential surveillance or waiting for something.
+
+6) The sequence of events results in an anomaly at timestamp 89.0 seconds when a third individual (Person C), wearing a white shirt and black pants, runs towards the camera from the right side of the frame, possibly chasing or being chased by someone off-camera.
+
+7) This anomaly occurs after the initial interactions near the car, suggesting it is a consequence of the earlier events involving Persons A and B.
+
+8) The video concludes with a black screen displaying contact information for Montgomery County, MD, regarding the suspects involved in the incident.

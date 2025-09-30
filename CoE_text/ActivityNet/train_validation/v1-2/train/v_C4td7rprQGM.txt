@@ -1,0 +1,4 @@
+1) A young girl is playing hopscotch on a sidewalk in a residential neighborhood, which causes her to stand in front of the hopscotch grid.
+2) The hopscotch grid is drawn with chalk on the sidewalk and there are numbers from 1 to 8, causing the girl to follow the rules of the game as she plays.
+3) The girl throws a small object onto one of the squares, then hops through the grid, following the rules of hopscotch, which leads her to pick up the object and continue hopping until she reaches the end of the grid.
+4) After completing the hopscotch course, the action of reaching the end of the grid causes the girl to turn around and walk back to her starting position.

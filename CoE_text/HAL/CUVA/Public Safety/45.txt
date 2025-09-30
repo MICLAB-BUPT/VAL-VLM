@@ -1,0 +1,6 @@
+1) The video clip shows a train crossing a railroad track in a rural area, moving from left to right with smoke billowing from its engine.  
+2) As the train moves through the rural area, it approaches a railway crossing in a suburban area.  
+3) The train's high speed **causes** it to create a cloud of dust behind it as it nears the crossing.  
+4) The approaching train **leads to** the traffic lights turning red at the crossing.  
+5) A stop sign is visible on the side of the road, and a car stops at the crossing due to the red light.  
+6) The train passes by safely while the car waits, **resulting in** the car resuming its journey after the train has cleared the crossing.

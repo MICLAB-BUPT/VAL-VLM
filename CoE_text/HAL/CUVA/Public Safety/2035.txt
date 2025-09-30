@@ -1,0 +1,9 @@
+1) The video shows a residential street with parked cars on both sides during daytime; a black car is driving down it.
+
+2) As the car approaches an intersection, it suddenly stops.
+
+3) This stop leads to the driver exiting the vehicle.
+
+4) The driver inspects something on the hood.
+
+5) After inspecting, the driver resumes driving.

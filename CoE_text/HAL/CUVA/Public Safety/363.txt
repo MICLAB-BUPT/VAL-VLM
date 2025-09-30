@@ -1,0 +1,7 @@
+1) The video is created to depict the spread of COVID-19 cases across China through static images of maps.  
+2) These maps are updated from January 20, 2020, to February 28, 2020, with each frame displaying a specific date and the number of confirmed cases for that day.  
+3) The use of a color gradient (light blue to dark red) in the maps causes regions with higher case numbers to be visually highlighted, leading to an easy understanding of severity across different provinces.  
+4) This visual representation results in a clear timeline showing the progression and containment of COVID-19 in China during this period.  
+5) The video further extends its timeline from January 2020 to December 2020, which allows for tracking changes in case numbers over time.  
+6) The map's color-coding system leads to distinguishing between regions with less than 500 cases and those with more than 5000 cases, providing a detailed overview of the outbreak's severity.  
+7) The conclusion of the video displays a black screen with a QR code and text encouraging viewers to follow for more information, resulting in increased awareness and engagement on COVID-19 updates.

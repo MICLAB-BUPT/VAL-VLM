@@ -1,0 +1,5 @@
+1) The player navigates through various environments, engaging in combat with other players, which causes the player to aim and shoot at opponents using different weapons, including rifles and shotguns.
+2) The need for survival and the desire to eliminate enemies cause the player to use cover objects like cars and walls to shield themselves from enemy fire.
+3) The presence of a game interface displaying health status, ammunition count, and a mini-map indicating enemy positions leads to the player making strategic decisions about movement and taking cover behind objects.
+4) The inclusion of elements of strategy and teamwork results in the player interacting with other characters on the battlefield, which enhances the effectiveness of their actions against the opponents.
+5) The variation in lighting and settings, from bright daylight to dimmer, overcast conditions, influences the player's visibility and tactics, causing them to adapt their approach to combat.

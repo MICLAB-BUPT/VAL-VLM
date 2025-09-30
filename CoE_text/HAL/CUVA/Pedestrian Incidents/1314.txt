@@ -1,0 +1,6 @@
+1) A man stands at the edge of a crosswalk in an urban area, waiting to cross the street, dressed casually in a light-colored shirt and dark pants under an overcast sky.  
+2) As he waits, another pedestrian approaches from behind, prompting him to step aside to let the other person pass first.  
+3) The man begins crossing the street, wearing a white shirt and dark pants with a bag on his back.  
+4) Another pedestrian appears from the opposite direction while not paying attention to the first pedestrian, as indicated by the text overlay.  
+5) This lack of attention causes a near collision between the two pedestrians at the crosswalk.  
+6) The distraction leads to the second pedestrian stopping in their tracks, while the first pedestrian continues crossing the street safely.

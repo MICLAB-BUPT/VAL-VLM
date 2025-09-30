@@ -1,0 +1,4 @@
+1) The video showcases a man in a black vest and white shirt dealing cards at a blackjack table, which causes the progression of the game.
+2) The dealer places cards on the table and interacts with the game interface, including buttons for 'INSURANCE' and 'DEALING', which leads to managing bets and interactions with the game.
+3) The dealer's actions, such as handling the cards and placing them on the table, cause the game to follow the rules and proceed.
+4) The background, featuring other tables and people, suggests a casino setting, which provides the context for the dealer's actions and the overall gameplay.
