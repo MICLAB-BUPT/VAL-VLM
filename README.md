@@ -45,7 +45,7 @@ Traditional temporal action localization (TAL) methods rely on large amounts of 
 with textual semantic information to enhance the alignment of query and support.
 - We design a novel Chain-of-Evidence reasoning method to generate textual descriptions to effectively and explicitly describe temporal dependencies and causal relationships between actions.
 - We collect and annotate the first benchmark for human-related anomaly localization, which includes 12 types of
-anomalies, 1,159 videos and more than 2,543,000 frames
+anomalies, 1,072 videos and more than 2,543,000 frames
 in total.
 
 
