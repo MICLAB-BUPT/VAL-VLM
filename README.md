@@ -8,6 +8,12 @@
 <a href="https://arxiv.org/abs/2504.13460" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-CoE Multimodal Reasoning-red?logo=arxiv" height="20" />
 </a>
+<a href="https://github.com/MICLAB-BUPT/VAL-VLM.git" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Code-green?logo=github" height="20" />
+</a>
+<a href="https://huggingface.co/datasets/irisreto/HAL" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-HAL Dataset-yellow?logo=huggingface" height="20" />
+</a>
 
 <div>
     <a href="https://jueduilingdu.github.io/" target="_blank">Mengshi Qi</a><sup>1*</sup>,
@@ -44,7 +50,7 @@ in total.
 
 
 ## Human-related Anomaly Localization Dataset
-To extend the application of temporal action localization to the more practical domains such as human-related anomaly detection, we construct a new Human-related Anomaly Localization (HAL) benchmark. The core feature of HAL is the Chain-of-Evidence (CoE) textual descriptions that we newly generated. Compared to the textual information used in prior works like [TAL](https://github.com/benedettaliberatori/T3AL), this new format is richer in logic and more clearly structured. To efficiently generate the CoE texts, we design an automated CoE reasoning pipeline that guides the VLM and LLM to perform reasoning about the evidence of the causal inference in the video content. The goal is to leverage this causality-infused text to indirectly imbue the localization task with the reasoning capabilities of LLMs, which allows the model to achieve a more precise understanding and localization of complex anomalous events.
+To extend the application of temporal action localization to the more practical domains such as human-related anomaly detection, we construct a new Human-related Anomaly Localization (HAL) benchmark. The core feature of HAL is the Chain-of-Evidence (CoE) textual descriptions that we newly generated. Compared to the textual information used in prior works like [T3AL](https://github.com/benedettaliberatori/T3AL), this new format is richer in logic and more clearly structured. To efficiently generate the CoE texts, we design an automated CoE reasoning pipeline that guides the VLM and LLM to perform reasoning about the evidence of the causal inference in the video content. The goal is to leverage this causality-infused text to indirectly imbue the localization task with the reasoning capabilities of LLMs, which allows the model to achieve a more precise understanding and localization of complex anomalous events.
 ![](img/dataset1.png)
 
 <div align="center">
@@ -73,12 +79,21 @@ We utilize the mean average precision (mAP) as an evaluation metric to assess th
 
 ## Training and Evaluation
 > To Train on support split and Test on query split run this
-
 ```
 python train.py --shot 5 --batch_size 100 --train_episodes 100 --epoch 200
 python test.py --shot 5  --test_episodes 100
 python train.py --shot 1 --batch_size 100 --train_episodes 100 --epoch 200
 python test.py --shot 1  --test_episodes 100
+```
+> You can download the extracted features from [anet_1.3](https://bupteducn-my.sharepoint.com/:f:/g/personal/hongweiji_bupt_edu_cn/IgDAeV6PALAcTK8yGRzO1h1BASoGPgUTu46MZs2n5bU5k5M?e=hnDLWM)
+> and the file structure should be like this:
+```
+data
+├── anet_1.3
+│   ├── annotations
+│   ├── captions.hdf5
+│   ├── csv_mean_100.hdf5
+│   └── long_text.hdf5
 ```
 
 ## Few Shot Split Setting 
@@ -99,7 +114,7 @@ python test.py --shot 1  --test_episodes 100
 
 ## Acknowledgment
 Our evaluation code is built upon [FS-QAT](https://github.com/sauradip/fewshotQAT) and adopts the captions of ActivityNet1.3 and THUMOS14 datasets from [T3AL](https://github.com/benedettaliberatori/T3AL). We thank the authors for making the code available.
-Our dataset is collected and organized from these datasets [UCF-Crime](https://github.com/vantage-vision-vv/Anomaly-Detection-in-Surveillance-Videos), [XD-Violence](https://roc-ng.github.io/XD-Violence/) and [MSAD](https://msad-dataset.github.io/), and we thank them for their contributions.
+Our dataset is collected and organized from these datasets [CUVA](https://github.com/fesvhtr/CUVA), [XD-Violence](https://roc-ng.github.io/XD-Violence/) and [MSAD](https://msad-dataset.github.io/), and we thank them for their contributions.
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
 ```
