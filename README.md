@@ -99,7 +99,7 @@ python test.py --shot 1  --test_episodes 100
 
 ## Acknowledgment
 Our evaluation code is built upon [FS-QAT](https://github.com/sauradip/fewshotQAT) and adopts the captions of ActivityNet1.3 and THUMOS14 datasets from [T3AL](https://github.com/benedettaliberatori/T3AL). We thank the authors for making the code available.
-
+Our dataset is collected and organized from these datasets [UCF-Crime](https://github.com/vantage-vision-vv/Anomaly-Detection-in-Surveillance-Videos), [XD-Violence](https://roc-ng.github.io/XD-Violence/) and [MSAD](https://msad-dataset.github.io/), and we thank them for their contributions.
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
 ```
