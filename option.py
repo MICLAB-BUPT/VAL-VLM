@@ -20,7 +20,7 @@ def parse_opt():
     parser.add_argument('--seed', type=int, default=1234)
     parser.add_argument('--multi_instance', type=str2bool, default=True)
     parser.add_argument('--shot', type=int, default=5)
-    parser.add_argument('--epochs', type=int, default=20)
+    parser.add_argument('--epochs', type=int, default=1)
     parser.add_argument('--train_episodes', type=int, default=100)
     parser.add_argument('--validation_episodes', type=int, default=100)
     parser.add_argument('--test_episodes', type=int, default=100)
@@ -40,13 +40,12 @@ def parse_opt():
 
 
     # dataset setting
-    parser.add_argument('--dataset', type=str, default='THUMOS14_I3D')
-    parser.add_argument('--ActivityNet_TAL_threshold', type=float, default=0.15)
-    parser.add_argument('--Activity_captions', type=str, default='data/anet_1.3/captions.hdf5')
+    parser.add_argument('--dataset', type=str, default='ActivityNet1.3')
 
 
     # ActivityNet1.3 setting
     parser.add_argument('--ActivityNet1_3_temporal_scale', type=int, default=100)
+    parser.add_argument('--ActivityNet_TAL_threshold', type=float, default=0.15)
     parser.add_argument('--ActivityNet1_3_video_features_path', type=str, default='data/anet_1.3/csv_mean_100.hdf5')
     parser.add_argument('--ActivityNet1_3_text_features_path', type=str,
                         default='data/anet_1.3/captions.hdf5')
@@ -61,7 +60,6 @@ def parse_opt():
 
 
     # stpe setting
-    parser.add_argument('--model', type=str, default='PAM')
     parser.add_argument('--d_model', type=int, default=400)
     parser.add_argument('--d_k', type=int, default=128)
     parser.add_argument('--d_v', type=int, default=128)

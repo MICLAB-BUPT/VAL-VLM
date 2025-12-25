@@ -54,6 +54,13 @@ def test_activity(opt):
         findTAL(proba_q, query_video_name, chosen_class, opt)
     mAP, mAP_0_5 = evaluate(opt, mode='test', verbose=True)
 
+if __name__ == '__main__':
+    import option
 
+    opt = option.parse_opt()
+    os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+    opt.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    if opt.dataset == 'ActivityNet1.3':
+        test_activity(opt)
 
 
